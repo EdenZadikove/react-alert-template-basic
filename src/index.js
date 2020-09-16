@@ -5,8 +5,8 @@ import ErrorIcon from './icons/ErrorIcon'
 import CloseIcon from './icons/CloseIcon'
 
 const alertStyle = {
-  backgroundColor: '#151515',
-  color: 'white',
+  backgroundColor: 'white',
+  color: 'black',
   padding: '10px',
   textTransform: 'uppercase',
   borderRadius: '3px',
